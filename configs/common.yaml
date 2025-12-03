@@ -1,0 +1,9 @@
+paths:
+  data_root: "./data"
+  model_root: "./models"
+  results_root: "./results"
+  src_root: "./src"
+  NPBOS_root: "./NPBOS"
+
+physics:
+  magic_numbers: [2, 8, 20, 28, 50, 82, 126]
