@@ -1,0 +1,28 @@
+# .gitignore
+
+# python gengerated files
+__pycache__/
+*.py[cod]
+
+# environments
+.env
+.venv
+venv/
+
+# IDE settings
+.vscode/
+.idea/
+
+# data
+data/*
+outputs/*
+results/*
+*.csv
+*.dat
+
+# models
+*.pth
+*.pt
+
+
+!**/.gitkeep
