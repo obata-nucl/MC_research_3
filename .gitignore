@@ -24,5 +24,7 @@ results/*
 *.pth
 *.pt
 
+# NPBOS files
+NPBOS/*
 
 !**/.gitkeep
