@@ -1,0 +1,14 @@
+generation:
+  # 生成するサンプル数
+  num_samples: 1000
+
+  # 並列数
+  num_workers: 0
+
+  parameter_ranges:
+    n_pi: [0, 10, 2]
+    n_nu: [0, 10, 2]
+    eps: [0.0, 3.0]
+    kappa: [-1.0, 0.0]
+    chi_pi: [-1.5, 1.5]
+    chi_nu: [-1.5, 1.5]
